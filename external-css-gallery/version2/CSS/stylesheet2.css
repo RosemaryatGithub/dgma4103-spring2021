@@ -12,26 +12,19 @@ h1 {
 .button { padding-left: 800px;
 }
 h2 {text-align: center;
-background-color: #fdf6fa;
-border: 8px solid #d62900;
 font-family: Trebuchet MS, Helvetica, sans-serif;
 font-size: 25px;
-border-radius: 25px 25px 10px 10px;
-color: #c22470;
-box-sizing: border-box;
-width: auto;
-height: auto;
-border: 8px solid #f0adcd;
+color: ##eae8ef;
 -ms-transform: skewY(175deg); /* IE 9 */
    transform: skewY(175deg)
 }
-p {background-color: #fdf6fa;
-border: 10px solid #e2609e;
+p {background-color: #746994;
+border: 10px solid #746994;
 font-family: Trebuchet MS, Helvetica, sans-serif;
 font-size: 16px;
-border-radius: 10px 10px 25px 25px;
+border-radius: 10px 25px 10px 25px;
 color: #fffcfd;
-background-color: #c22470;
+background-color: #746994;
 }
 h3 {box-sizing: content-box;
   width: 100px;
@@ -45,10 +38,10 @@ h3 {box-sizing: content-box;
   }
 .Apryll{-ms-transform: skewY(165deg); /* IE 9 */
    transform: skewY(165deg);
-   box-sizing: border-box;
-   border:
+   background-color: #48425c;
  }
 a {color:#48425c;
   font-family: 'Lexend Deca', sans-serif;
-
 }
+.Night {-ms-transform: skewY(165deg); /* IE 9 */
+   transform: skewY(165deg);}
