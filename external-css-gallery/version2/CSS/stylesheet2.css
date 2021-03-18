@@ -13,7 +13,7 @@ h1 {
 .button { padding-left: 800px;
 }
 h2 {text-align: center;
-font-family: Trebuchet MS, Helvetica, sans-serif;
+font-family: "Lexend Deca", sans-serif;
 font-size: 25px;
 color: ##eae8ef;
 -ms-transform: skewY(175deg); /* IE 9 */
@@ -21,7 +21,7 @@ color: ##eae8ef;
 }
 p {background-color: #746994;
 border: 10px solid #746994;
-font-family: Trebuchet MS, Helvetica, sans-serif;
+font-family: "Lexend Deca", sans-serif;
 font-size: 16px;
 border-radius: 10px 25px 10px 25px;
 color: #fffcfd;
