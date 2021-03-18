@@ -1,40 +1,67 @@
-body {background-color:#f7d4e5; }
-.dashed{border:5px dashed White}
+body {background-color:#134633; }
+
 h1 {
-  text-align: center;
-  background-color: #ff9b55;
-  border: 8px solid #d62900;
+  text-align:center;
+  background-color: #cbf1e2;
+  border: 8px solid #97e2c6;
   font-family: 'Macondo Swash Caps';
   font-size: 50px;
-  border-radius: 25px 25px 10px 10px;
-  color: #c22470;
+  border-radius: 25px 25px 25px 25px;
+  color: #35c08b;
+  border-style: outset;
 }
 .button { padding-left: 800px;
+  font-family: "Neucha";
+  font-size: 24px;
 }
 h2 {text-align: center;
-background-color: #fdf6fa;
-border: 8px solid #d62900;
-font-family: Trebuchet MS, Helvetica, sans-serif;
-font-size: 25px;
-border-radius: 25px 25px 10px 10px;
-color: #c22470;
+background-color:#17543d ;
+border: 8px solid #1b6247;
+font-family: "Neucha", sans-serif;
+font-size: 40px;
+border-radius: 25px 25px 25px 25px;
+color: #1f7051;
 box-sizing: border-box;
-width: auto;
+width: 250px;
 height: auto;
-border: 8px solid #f0adcd
+border-style: outset;
+
 }
 p {background-color: #fdf6fa;
-border: 10px solid #e2609e;
-font-family: Trebuchet MS, Helvetica, sans-serif;
-font-size: 16px;
-border-radius: 10px 10px 25px 25px;
-color: #fffcfd;
-background-color: #c22470;
+border: 10px solid #278d66;
+font-family: "Neucha", sans-serif;
+font-size: 24px;
+border-radius: 25px 25px 25px 25px;
+color: #cbf1e2;
+background-color: #17543d;
+float:right;
+width: 250px;
+margin: 0;
+  position: absolute;
+  top: 95%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
 h3 {box-sizing: content-box;
   width: 100px;
     padding: 12px;
-    border: 8px solid #fdf6fa ;
+    border: 8px solid #278d66 ;
+    border-style: inset;
     border-radius: 100px;
     text-align: center;
+    font-family: "Neucha";
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #0f3628;
   }
+a {color: #97e2c6;}
+hr {border: 3px solid #237e5b;}
+.Apryll{-ms-transform: skewx(165deg); /* IE 9 */
+   transform: skewx(165deg);
+   box-sizing: border-box;
+   border: 7px solid  #0f3628;
+   border-style: double groove;
+   border-width: 15px;
+   background-color: #092219;
+ }
